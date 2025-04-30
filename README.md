@@ -1,4 +1,3 @@
-# RubyTater1
 # Hi there, I'm Ruby Tater! 👋
 
 
